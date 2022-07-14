@@ -23,7 +23,6 @@ for (let i = 0; i < array.length; i++) {
     sum += array[i];
 }
 console.log(sum);
-assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
@@ -48,7 +47,7 @@ arr.forEach(number => {
 });
 
 console.log(even);
-assignment.countEvenNumbers = countEvenNumbers;
+
 
 /**
  * Challenge - 3
